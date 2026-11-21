@@ -1,0 +1,23 @@
+﻿# Unreal Engine 5.6.1
+
+# Archivos temporales y generados
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# Archivos generados por compilacion
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+.vs/
+
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
