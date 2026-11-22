@@ -1,4 +1,4 @@
-﻿# Unreal Engine - Git LFS
+# Unreal Engine - Git LFS
 
 # Assets y mapas de Unreal
 *.uasset filter=lfs diff=lfs merge=lfs -text lockable
